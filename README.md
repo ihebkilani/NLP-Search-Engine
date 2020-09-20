@@ -18,14 +18,22 @@ pip install -r ../requirements.txt
 ```
 
 ## Requirements
-You need to install python, pip and jupyter notebook 
+You need to :
+
+### Step 1 : Install Python 
 
 ```sh
 sudo apt update
-sudo apt update
+sudo apt install python3.8
 ```
+### Step 2 : Install pip
 ```sh
-sudo apt install software-properties-common
+sudo apt update
+sudo apt install python3-pip
 ```
+
+### Step 3 : Install jupyter notebook
+```sh
+sudo -H pip install jupyter```
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
