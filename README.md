@@ -5,9 +5,10 @@
   </a>
 </p>
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
+## Description
+* Implementation of a search engine based on the vector model working withindexed documents.
+* Indexing of documents: choice and extraction of terms.
+* Use of stemming, lemmatization, compression of the index (VBE encoding,Gap encoding) , distribution of the index..
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
