@@ -6,9 +6,11 @@
 </p>
 
 ## Description
-* Implementation of a search engine based on the vector model working withindexed documents.
+* Implementation of a search engine based on the vector model working with indexed documents.
 * Indexing of documents: choice and extraction of terms.
 * Use of stemming, lemmatization, compression of the index (VBE encoding,Gap encoding) , distribution of the index..
+
+#### Key words : python, pandas, numpy, nltk, lemmatization,stemming, compression of the index, VBE encoding, Gap encoding, TF-IDF, 
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
