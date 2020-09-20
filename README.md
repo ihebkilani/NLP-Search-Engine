@@ -12,5 +12,20 @@
 
 #### Key words : python, pandas, numpy, nltk, lemmatization,stemming, compression of the index, VBE encoding, Gap encoding, TF-IDF, 
 
+## Install
+```sh
+pip install -r ../requirements.txt
+```
+
+## Requirements
+You need to install python, pip and jupyter notebook 
+
+```sh
+sudo apt update
+sudo apt update
+```
+```sh
+sudo apt install software-properties-common
+```
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
