@@ -10,7 +10,8 @@
 * Indexing of documents: choice and extraction of terms.
 * Use of stemming, lemmatization, compression of the index (VBE encoding,Gap encoding) , distribution of the index..
 
-#### Key words : python, pandas, numpy, nltk, lemmatization,stemming, compression of the index, VBE encoding, Gap encoding, TF-IDF, 
+##### Key words : 
+python, pandas, numpy, nltk, lemmatization,stemming, compression of the index, VBE encoding, Gap encoding, TF-IDF, 
 
 ## Install
 ```sh
