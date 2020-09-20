@@ -36,5 +36,8 @@ sudo apt install python3-pip
 ### Step 3 : Install jupyter notebook
 ```sh
 sudo -H pip install jupyter```
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+## Author
+
+👤 **Iheb KILANI**
+
