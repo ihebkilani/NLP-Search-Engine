@@ -35,7 +35,8 @@ sudo apt install python3-pip
 
 ### Step 3 : Install jupyter notebook
 ```sh
-sudo -H pip install jupyter```
+sudo -H pip install jupyter
+```
 
 ## Author
 
