@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to projects 👋</h1>
+<h1 align="center">NLP Search Engine 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/projects" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/projects.svg">
