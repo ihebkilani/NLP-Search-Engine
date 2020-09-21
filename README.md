@@ -15,7 +15,7 @@ python, pandas, numpy, nltk, lemmatization,stemming, compression of the index, V
 
 ## Install
 ```sh
-pip install -r ../requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Requirements
