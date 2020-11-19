@@ -1,9 +1,4 @@
 <h1 align="center">NLP Search Engine 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/projects" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/projects.svg">
-  </a>
-</p>
 
 ## Description
 * Implementation of a search engine based on the vector model working with indexed documents.
@@ -38,7 +33,7 @@ sudo apt install python3-pip
 sudo -H pip install jupyter
 ```
 
-## Author
+## Authors
 
 👤 **Iheb KILANI**
 
